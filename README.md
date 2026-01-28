@@ -31,7 +31,7 @@ I am a firm believer in **Scientific Communication**. I am passionate about tran
 ### 📫 Connect with me
 I'm always open to discussing datasience, AI-driven security, 3D manufacturing, and tech divulgation.
 
-* **LinkedIn:** [Your Professional Profile](https://www.linkedin.com/in/giovannitrapella)
+* **LinkedIn:** [in](https://www.linkedin.com/in/giovannitrapella)
 * **Professional Role:** Cyber OT developer @ Telefónica Tech
 * **Location:** Madrid, ES
 
