@@ -33,7 +33,7 @@ I'm always open to discussing datasience, AI-driven security, 3D manufacturing, 
 
 * **LinkedIn:** [Your Professional Profile](https://www.linkedin.com/in/giovannitrapella)
 * **Professional Role:** Cyber OT developer @ Telefónica Tech
-* **Location:** [Your City/Remote]
+* **Location:** Madrid, ES
 
 ---
 *"Securing the future, one neuron and one layer at a time."*
